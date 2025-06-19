@@ -1,0 +1,244 @@
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe.config
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.pdb
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.AssemblyReference.cache
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DangNhapF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Properties.Resources.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.GenerateResource.cache
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.exe
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.pdb
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.DangNhap.QuenMatKhauF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DichVuF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.SanPhamF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.NhanVien.Khach_hang.DetailCustomer.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.KhachHangF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.Up2Date
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.NhanVien.ThanhToan.DetailBill.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.HoaDonF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.LichHenF.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.TrangChuQL.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.DichVu.DLChiTietDV.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLDichVu.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.SanPham.QLChiTietSP.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.SanPham.QLSanPham.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.TrangChuNV.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.KhachHang.QLChiTietKH.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.KhachHang.QLKhachHang.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.NhanVien.Khach_hang.GuiMail.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.NhanVien.QLChiTietNV.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLNhanVien.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.HoaDon.QLChiTietHD.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLHoaDon.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLThongKe.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLPhong.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.Phong.QLChiTietP.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.NhapHang.QLPhieuNhap.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.NhapHang.QLNhaCungCsp.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.NhapHang.QLNHapHang.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.NhapHang.TaoPhieuNhap.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.NhapHang.NhaCungCap.ThemNhaCungCap.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.NhanVien.DatLich.TaoLichHen.resources
+C:\Users\Minh\Desktop\QL_SPA\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Code.QuanLy.LichHen.QLLichHen.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe.config
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.pdb
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.AssemblyReference.cache
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DangNhapF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DichVuF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLHoaDon.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.KhachHangF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.LichHenF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.SanPhamF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.HoaDonF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.TrangChuNV.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLDichVu.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLNhanVien.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLPhong.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLThongKe.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Properties.Resources.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.GenerateResource.cache
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.CoreCompileInputs.cache
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.Up2Date
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.exe
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.pdb
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.TrangChuQL.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.DangNhap.QuenMatKhauF.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.DatLich.TaoLichHen.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.Khach_hang.DetailCustomer.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.HoaDon.QLChiTietHD.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.Khach_hang.GuiMail.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.ThanhToan.DetailBill.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.DichVu.DLChiTietDV.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.KhachHang.QLChiTietKH.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.KhachHang.QLKhachHang.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.LichHen.QLLichHen.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhanVien.QLChiTietNV.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLNhaCungCsp.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.NhaCungCap.ThemNhaCungCap.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLNHapHang.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLPhieuNhap.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.TaoPhieuNhap.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.Phong.QLChiTietP.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.SanPham.QLChiTietSP.resources
+C:\Users\khang\OneDrive\Máy tính\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.SanPham.QLSanPham.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe.config
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.pdb
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.Interfaces.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.System.Drawing.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.AssemblyReference.cache
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DangNhapF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.DangNhap.QuenMatKhauF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.DatLich.TaoLichHen.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DichVuF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.Khach_hang.DetailCustomer.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.HoaDon.QLChiTietHD.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLHoaDon.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.Khach_hang.GuiMail.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.KhachHangF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.LichHenF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.SanPhamF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.ThanhToan.DetailBill.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.HoaDonF.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.TrangChuNV.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.DichVu.DLChiTietDV.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLDichVu.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.KhachHang.QLChiTietKH.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.KhachHang.QLKhachHang.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.LichHen.QLLichHen.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhanVien.QLChiTietNV.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLNhanVien.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLNhaCungCsp.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.NhaCungCap.ThemNhaCungCap.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLNHapHang.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLPhieuNhap.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.TaoPhieuNhap.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.Phong.QLChiTietP.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLPhong.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.TrangChuQL.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.SanPham.QLChiTietSP.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.SanPham.QLSanPham.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLThongKe.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Properties.Resources.resources
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.GenerateResource.cache
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.CoreCompileInputs.cache
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.Up2Date
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.exe
+D:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.pdb
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe.config
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.exe
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\QuanLy_Spa.pdb
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.Interfaces.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.System.Drawing.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\EPPlus.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\itextsharp.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Buffers.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Memory.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Numerics.Vectors.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.AssemblyReference.cache
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DangNhapF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.DangNhap.QuenMatKhauF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.DatLich.TaoLichHen.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.DichVuF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.Khach_hang.DetailCustomer.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.HoaDon.QLChiTietHD.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLHoaDon.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.Khach_hang.GuiMail.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.KhachHangF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.LichHenF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.SanPhamF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.NhanVien.ThanhToan.DetailBill.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.HoaDonF.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.TrangChuNV.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.DichVu.DLChiTietDV.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLDichVu.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.KhachHang.QLChiTietKH.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.KhachHang.QLKhachHang.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.LichHen.QLLichHen.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhanVien.QLChiTietNV.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLNhanVien.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLNhaCungCsp.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.NhaCungCap.ThemNhaCungCap.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLNHapHang.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.QLPhieuNhap.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.NhapHang.TaoPhieuNhap.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.Phong.QLChiTietP.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QLPhong.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.TrangChuQL.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.SanPham.QLChiTietSP.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.GUI.QuanLy.SanPham.QLSanPham.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.QuanLy.QLThongKe.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.Properties.Resources.resources
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.GenerateResource.cache
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.CoreCompileInputs.cache
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.csproj.Up2Date
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.exe
+E:\Winform\Winform_QuanLySpa\QuanLy_Spa\QuanLy_Spa\QuanLy_Spa\obj\Debug\QuanLy_Spa.pdb

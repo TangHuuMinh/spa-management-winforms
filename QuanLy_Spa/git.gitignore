@@ -1,0 +1,21 @@
+# Ignore build and debug folders
+bin/
+obj/
+.vs/
+
+# Ignore temporary and user-specific files
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+*.mdf
+*.ldf
+
+# Ignore NuGet packages (nếu dùng)
+packages/
+
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
